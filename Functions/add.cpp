@@ -28,6 +28,7 @@ int main(){
     int result = addNumbers(num1,num2);
 
     printResult(result);
+    return 0;
 }
 
 /*
